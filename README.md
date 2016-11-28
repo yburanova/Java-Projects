@@ -7,3 +7,8 @@ Searching for Java positions on the Head Hunters website (hh.ru)
 Basic structure: Model-View-Controller pattern
 Searching mechanism: Strategy pattern
 HTML parsing: Jsoup library
+
+3. Sokoban
+A famous game "Sokoban"
+Basic structure: MVC
+Additionals: Swing, Javadoc
