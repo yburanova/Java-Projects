@@ -12,3 +12,9 @@ HTML parsing: Jsoup library
 A famous game "Sokoban"
 Basic structure: MVC
 Additionals: Swing, Javadoc
+
+4. Game2048
+A version of the game "2048"
+Basic idea is taken from https://tproger.ru/articles/15-mins-for-2048/
+Graphics: lwjgl
+
